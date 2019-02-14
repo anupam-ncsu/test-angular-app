@@ -1,7 +1,7 @@
 import { TestBed, inject } from '@angular/core/testing';
 import { HelloWorldServiceService } from './hello-world-service.service';
 
-describe('HelloWorldServiceService', () => {
+describe('Hello-World-Service-Service', () => {
 beforeEach(() => {
     TestBed.configureTestingModule({
     providers: [HelloWorldServiceService]
